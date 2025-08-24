@@ -13,7 +13,7 @@ Este es un proyecto para el curso de Desarrollo Web I.
 ## Cómo Ejecutar el Proyecto Localmente
 
 1.  **Clonar el repositorio:**
-    git clone [https://github.com/TU_USUARIO/MiPortafolioWeb.git](https://github.com/TU_USUARIO/MiPortafolioWeb.git)
+    git clone [https://github.com/Naibaf-39/MiPortafolioWeb.git](https://github.com/Naibaf-39/MiPortafolioWeb.git)
 
 2.  **Configurar la Base de Datos:**
     * MariaDB

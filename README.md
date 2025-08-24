@@ -1,7 +1,5 @@
 # Mi Portafolio Web
 
-Este es un proyecto para el curso de Desarrollo Web I.
-
 ## Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3, Bootstrap 5
